@@ -1,7 +1,7 @@
 module.exports = app => {
     const controller = app.controllers.series;
 
-    app.route('/api/series')
+    app.route('/API/series')
         .get(controller.listSeries)
         .post(controller.saveSeries);
     
