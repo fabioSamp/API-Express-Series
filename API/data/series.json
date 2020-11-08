@@ -1,0 +1,24 @@
+{ 
+    "series": {
+        "data": [
+            {
+                "id": "1",
+                "title": "Flash",
+                "year": "2014",
+                "type": "Adventure"
+            },
+            {
+                "id": "2",
+                "title": "Daredevil",
+                "year": "2015",
+                "type": "Action"
+            },
+            {
+                "id": "3",
+                "title": "Legends of Tomorrow",
+                "year": "2016",
+                "type": "Adventure"
+            }
+        ]
+    }  
+}

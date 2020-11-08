@@ -1,0 +1,20 @@
+{
+  "name": "api-express-series",
+  "version": "1.0.0",
+  "description": "Atividade proposta em aula da faculdade",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fábio Sampaio",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  }
+}
